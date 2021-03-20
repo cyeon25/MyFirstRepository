@@ -9,7 +9,7 @@
       
  1. **볼드체**
  2. __볼드체__
- 3.  "이텔릭체"
+ 3.  *이탤릭체*
  
  >문단 모양이 된거죠.
  >
@@ -19,6 +19,6 @@
  ***
  * * *
  
- <img width>"" height"" src=./png/말티즈.jpg"></img>
+ <img width>" " height" " src=./png/말티즈.jpg"></img>
 
  
