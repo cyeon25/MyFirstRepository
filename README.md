@@ -17,8 +17,8 @@
 <pre>
 <code>
  코드 블럭 안
-<pre>
-<code>
+</code>
+</pre>
  
  * * *
  
