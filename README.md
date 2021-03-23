@@ -23,5 +23,5 @@
  * * *
 
  <img width="" height="" src="/png/말티즈.jpg"></img>
- <img width="" height="" src="/png/4주차 과제.jpg"></img>
+ <img width="" height="" src="/png/4주차 과제."></img>
  
